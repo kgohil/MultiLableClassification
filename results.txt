@@ -1,0 +1,71 @@
+                         precision    recall  f1-score   support
+
+               business       0.71      0.27      0.39        37
+                  media       0.00      0.00      0.00         4
+               politics       0.58      0.26      0.36        27
+               americas       0.65      0.54      0.59        28
+                   arts       0.84      0.66      0.74        41
+             television       1.00      0.20      0.33         5
+            real-estate       1.00      0.20      0.33         5
+great-homes-destination       0.00      0.00      0.00         0
+         my-real-estate       0.00      0.00      0.00         0
+             the-upshot       0.50      0.24      0.32        17
+             technology       0.00      0.00      0.00         2
+          personal-tech       1.00      0.85      0.92        40
+                 sports       0.33      0.20      0.25         5
+           football-nfl       1.00      0.33      0.50         6
+                 travel       0.50      0.25      0.33         8
+                 health       0.50      0.67      0.57         3
+                   well       0.29      0.17      0.21        12
+                  world       0.69      0.38      0.49        29
+                 at-war       1.00      0.21      0.35        19
+              terrorism       0.40      0.40      0.40         5
+                   bits       0.00      0.00      0.00         5
+                  music       1.00      0.64      0.78        11
+                  books       0.75      0.55      0.63        11
+                science       1.00      0.50      0.67         6
+              education       0.67      0.67      0.67         6
+                economy       1.00      0.50      0.67         2
+                 market       0.67      0.40      0.50        10
+                 africa       1.00      0.44      0.62         9
+       nyc-events-guide       0.00      0.00      0.00         2
+                  style       1.00      0.60      0.75        10
+          on-the-runway       1.00      0.06      0.11        17
+                  money       0.00      0.00      0.00         3
+           money-policy       0.00      0.00      0.00         5
+                   food       0.00      0.00      0.00         2
+                  crime       0.50      0.12      0.20         8
+               dealbook       1.00      0.50      0.67         2
+                 movies       1.00      0.50      0.67         4
+       entrepreneurship       0.00      0.00      0.00         2
+                markets       1.00      0.25      0.40         4
+           space-cosmos       1.00      0.50      0.67         8
+               weddings       0.75      0.18      0.29        17
+                 hockey       0.00      0.00      0.00         8
+             sinosphere       1.00      0.50      0.67         4
+                cooking       1.00      1.00      1.00         2
+           asia-pacific       1.00      0.67      0.80         3
+                 europe       1.00      0.33      0.50         3
+              elections       1.00      0.20      0.33         5
+            first-draft       1.00      0.15      0.27        13
+ commercial-real-estate       1.00      0.08      0.14        13
+             your-money       1.00      1.00      1.00         1
+                 soccer       0.83      0.62      0.71         8
+                theater       1.00      0.25      0.40         8
+             mens-style       0.00      0.00      0.00         3
+      restaurant-search       0.00      0.00      0.00         1
+            middle-east       0.00      0.00      0.00         2
+            automobiles       0.00      0.00      0.00         0
+               baseball       0.00      0.00      0.00         1
+                   pets       0.00      0.00      0.00         6
+            environment       0.00      0.00      0.00         4
+               election       0.00      0.00      0.00         2
+                  drama       0.00      0.00      0.00         2
+
+            avg / total       0.72      0.37      0.45       526
+
+Number of Labels:77
+hamming loss : 0.0334526088042
+f-beta : 0.452663139091
+zero-loss:0.888324873096
+Accuracy score:0.111675126904
